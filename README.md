@@ -1,3 +1,16 @@
+##About Me
+
+###Games I Play
+
+I Play a Lot Of
+**SCP: Secret Laboratory**
+**Azur Lane**
+Here is My Steam ID and Link **[479499403](https://steamcommunity.com/id/TRGWJosh/)**
+
+I listen to a lot of
+**Video Game OST**
+Here is My Spotify **[Neko Josh](https://open.spotify.com/user/jonnpetemalava)**
+
 ### Things I'm Doing or Working On
 
 - 🔭 I’m currently working on **[SpotifyEnhanced](https://github.com/TheRealGWJosh/CSS-UserCSS-Themes#1-spotifyenhanced)**
