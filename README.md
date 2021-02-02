@@ -5,11 +5,17 @@
 I Play a Lot Of
 **SCP: Secret Laboratory**
 **Azur Lane**
-Here is My Steam ID and Link **[479499403](https://steamcommunity.com/id/TRGWJosh/)**
+More Will Be Added Soon
 
 I listen to a lot of
 **Video Game OST**
+
+# My Socials
+
 Here is My Spotify **[Neko Josh](https://open.spotify.com/user/jonnpetemalava)**
+Here is My Steam ID and Link **[479499403](https://steamcommunity.com/id/TRGWJosh/)**
+My PSN **TheRealGWJosh**
+My Xbox **RealGWJosh**
 
 ### Things I'm Doing or Working On
 
