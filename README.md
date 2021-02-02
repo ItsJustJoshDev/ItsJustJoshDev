@@ -1,6 +1,6 @@
-##About Me
+## About Me
 
-###Games I Play
+### Games I Play
 
 I Play a Lot Of
 **SCP: Secret Laboratory**
