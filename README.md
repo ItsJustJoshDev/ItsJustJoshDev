@@ -28,11 +28,7 @@ I listen to a lot of
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=therealgwjosh&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/therealgwjosh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealgwjosh&layout=compact&theme=dark" />
-<a href="https://discord.gg/jmwQxmauwK">
-  <img align="right" src="https://img.shields.io/discord/797173403505000539?color=gold&label=Joshua%27s%20Facility&logo=discord&logoColor=gold&style=for-the-badge" />
-<a href="https://discord.gg/TNSMQsCWzq">
-  <img align="right" src="https://img.shields.io/discord/797173127725580339?color=gold&label=The%20Phantom%20Thieves&logo=discord&logoColor=gold&style=for-the-badge" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealgwjosh&layout=compact&theme=dark, https://img.shields.io/discord/797173403505000539?color=gold&label=Joshua%27s%20Facility&logo=discord&logoColor=gold&style=for-the-badge" />
 </a>
 
 # My Discord Servers :D 
