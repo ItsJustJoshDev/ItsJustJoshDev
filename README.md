@@ -23,6 +23,10 @@ I listen to a lot of
 - 🌱 I’m currently learning user.styl, user.css, and css Code
 - 📫 How to reach me: My DIscord Servers or Dm Me **TheRealGWJosh#0001**
 
+### My Github Stats 
+![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=therealgwjosh&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=therealgwjosh&layout=compact&theme=dark)
+
 # My Discord Servers :D 
 [![My Discord Server](https://img.shields.io/discord/797173403505000539?color=gold&label=Joshua%27s%20Facility&logo=discord&logoColor=gold&style=for-the-badge)](https://discord.gg/jmwQxmauwK) [![My Other Discord Server](https://img.shields.io/discord/797173127725580339?color=gold&label=The%20Phantom%20Thieves&logo=discord&logoColor=gold&style=for-the-badge)](https://discord.gg/TNSMQsCWzq)
 
@@ -31,10 +35,6 @@ I listen to a lot of
 >
 > pings This Will be because of the many bots i will have to configure
 >
-
-### My Github Stats 
-|![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=therealgwjosh&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=therealgwjosh&layout=compact&theme=dark)|
 
 <!--
 **TheRealGWJosh/TheRealGWJosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
