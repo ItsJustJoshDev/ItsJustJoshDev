@@ -33,7 +33,7 @@ I listen to a lot of
 >
 
 ### My Github Stats 
-|![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=therealgwjosh&show_icons=true&theme=dark)|
+|![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=therealgwjosh&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=therealgwjosh&layout=compact&theme=dark)|
 
 <!--
