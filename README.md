@@ -32,5 +32,8 @@ I listen to a lot of
 > pings This Will be because of the many bots i will have to configure
 >
 
+### My Github Stats 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=therealgwjosh&layout=compact?theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **TheRealGWJosh/TheRealGWJosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
