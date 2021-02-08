@@ -26,11 +26,10 @@
 > ***My Xbox*** **RealGWJosh**
 >
 ### My Discord Servers :D 
->
 > **My Discord Servers Are WIP and If You Join expect to be a bunch of**
->
 > **pings This Will be because of the many bots i will have to configure**
-[![My Discord Server](https://img.shields.io/discord/797173403505000539?color=gold&label=Joshua%27s%20Facility&logo=discord&logoColor=gold&style=for-the-badge)](https://discord.gg/jmwQxmauwK) [![My Other Discord Server](https://img.shields.io/discord/797173127725580339?color=gold&label=The%20Phantom%20Thieves&logo=discord&logoColor=gold&style=for-the-badge)](https://discord.gg/TNSMQsCWzq)
+> [![My Discord Server](https://img.shields.io/discord/797173403505000539?color=gold&label=Joshua%27s%20Facility&logo=discord&logoColor=gold&style=for-the-badge)](https://discord.gg/jmwQxmauwK)
+> [![My Other Discord Server](https://img.shields.io/discord/797173127725580339?color=gold&label=The%20Phantom%20Thieves&logo=discord&logoColor=gold&style=for-the-badge)](https://discord.gg/TNSMQsCWzq)
 
 ## My Github Stats 
 <a href="https://github.com/therealgwjosh">
