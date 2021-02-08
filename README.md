@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning user.styl, user.css, and css Code
 - 📫 How to reach me: My DIscord Servers or Dm Me **TheRealGWJosh#0001**
 
-# My Socials
+# My Socials & Stats
 >
 > ***Here is My Spotify*** **[Neko Josh](https://open.spotify.com/user/jonnpetemalava)**
 >
@@ -27,7 +27,9 @@
 >
 ### My Discord Servers :D 
 > **My Discord Servers Are WIP and If You Join expect to be a bunch of**
+>
 > **pings This Will be because of the many bots i will have to configure**
+>
 > [![My Discord Server](https://img.shields.io/discord/797173403505000539?color=gold&label=Joshua%27s%20Facility&logo=discord&logoColor=gold&style=for-the-badge)](https://discord.gg/jmwQxmauwK)
 > [![My Other Discord Server](https://img.shields.io/discord/797173127725580339?color=gold&label=The%20Phantom%20Thieves&logo=discord&logoColor=gold&style=for-the-badge)](https://discord.gg/TNSMQsCWzq)
 
