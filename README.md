@@ -32,12 +32,8 @@ I listen to a lot of
 <a href="https://github.com/therealgwjosh">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=therealgwjosh&show_icons=true&theme=dark" />
 </a>
-<a href="https://discord.gg/jmwQxmauwK">
-  <img align="left" src="https://img.shields.io/discord/797173403505000539?color=gold&label=Joshua%27s%20Facility&logo=discord&logoColor=gold&style=for-the-badge" />
-</a>
-<a href="https://discord.gg/TNSMQsCWzq">
-  <img align="left" src="https://img.shields.io/discord/797173127725580339?color=gold&label=The%20Phantom%20Thieves&logo=discord&logoColor=gold&style=for-the-badge" />
-</a>
+
+| `discord_s1` [![discords1](https://img.shields.io/discord/797173403505000539?color=gold&label=Joshua%27s%20Facility&logo=discord&logoColor=gold&style=for-the-badge)](https://discord.gg/jmwQxmauwK) | `discord_s2` [![discords2](https://img.shields.io/discord/797173127725580339?color=gold&label=The%20Phantom%20Thieves&logo=discord&logoColor=gold&style=for-the-badge)](https://discord.gg/TNSMQsCWzq) |
 
 # My Discord Servers :D 
 [![My Discord Server](https://img.shields.io/discord/797173403505000539?color=gold&label=Joshua%27s%20Facility&logo=discord&logoColor=gold&style=for-the-badge)](https://discord.gg/jmwQxmauwK) [![My Other Discord Server](https://img.shields.io/discord/797173127725580339?color=gold&label=The%20Phantom%20Thieves&logo=discord&logoColor=gold&style=for-the-badge)](https://discord.gg/TNSMQsCWzq)
