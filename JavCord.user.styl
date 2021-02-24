@@ -8,14 +8,28 @@
 @preprocessor   uso
 @homepageURL    https://github.com/TheRealGWJosh/CSS-UserCSS-Themes
 @supportURL     https://github.com/TheRealGWJosh/CSS-UserCSS-Themes/issues
-@var color idle "RS Idle Color" #006d5c
-@var color dnd "RS DND Color" #690101
-@var color off "RS Offline Color" #616365
+@var text backgmurl 'Background URL' https://i.imgur.com/N617Sav.jpg
+@var text popmurl 'Popout URL' https://i.imgur.com/bLjT5yC.png
+@var text homeburl 'Home Button URL' https://i.imgur.com/ehZc5Kd.png
+@var color mainp1 'Main Color P1' #8c8e4e
+@var text maing1 'Main Color G1' #8c8e4e 0%
+@var text main1 'Main Color' 140, 142, 78
+@var color mainsb1 'Main Color SB1' rgba(140, 142, 78, 0.05)
+@var color mainc1 'Main Color C1' rgba(140, 142, 78);
+@var color maint1 'Main Color T1' rgba(140, 142, 78, .6)
+@var color maints1 'Main Color TS1' rgba(140, 142, 78, .84)
+@var color maintt1 'Main Color TT1' rgba(140, 142, 78, .1)
+@var color mainttt1 'Main Color TTT1' rgba(140, 142, 78, .18)
+@var color maintttt1 'Main Color TTTT1' rgba(140, 142, 78, 0.25)
+@var color nextp2 'Secondary Color P2' #8945b0
+@var text nextg2 'Secondary Color G2' #8945b0 74%
+@var text next2 'Secondary Color 2' 137, 69, 176
+@var color nextc2 'Secondary Color C2' rgba(137, 69, 176)
+@var color idle "RS Idle Color" #16b983
+@var color dnd "RS DND Color" #ac0b0b
+@var color off "RS Offline Color" #ffffff
 @var color stream "RS Streaming Color" #5e00ff
-@var text small "RS Small Spacing" 2px
-@var text large "RS LargeUp Spacing" 3px 
-@var text pfp "RS PFP Shape" 50%
-@var text width "RS Width" 3px
+@var text avr 'Avatar Radius' 50%
 ==/UserStyle== */
 {
 	@import url('https://discordstyles.github.io/FrostedGlass/base.css');
@@ -39,70 +53,120 @@
 	@import url("https://landidev.github.io/crearts-discord/Removed/gif-nitro-chat.css");
 	@import url("https://landidev.github.io/crearts-discord/Removed/closed-folder-background.css");
 	:root {
-		--phancolor-p1: #c0b440;
-		--phancolor-1: 192, 180, 64;
-		--phancolor-c1: rgba(192, 180, 64);
-		--phancolor-p2: #8945b0;
-		--phancolor-2: 137, 69, 176;
-		--phancolor-c2: rgba(137, 69, 176);
+		/* Main Color */
+		--javcolor-p1: /*[[mainp1]]*/;
+		--javcolor-g1: /*[[maing1]]*/;
+		--javcolor-1: /*[[main1]]*/;
+		--javcolor-sb1: /*[[mainsb1]]*/;
+		--javcolor-c1: /*[[mainc1]]*/;
+		--javcolor-t1: /*[[maint1]]*/;
+		--javcolor-ts1: /*[[maints1]]*/;
+		--javcolor-tt1: /*[[maintt1]]*/;
+		--javcolor-ttt1: /*[[mainttt1]]*/;
+		--javcolor-tttt1: /*[[maintttt1]]*/;
 
-		--background-image: url('https://i.imgur.com/8BZf6LEh.png');
+		/* Secondary Color */
+		--javcolor-p2: /*[[nextp2]]*/;
+		--javcolor-g2: /*[[nextg2]]*/;
+		--javcolor-2: /*[[next2]]*/;
+		--javcolor-c2: /*[[nextc2]]*/;
+
+		/* User Status Colors */
+		--rs-idle-color: /*[[idle]]*/
+		!important;
+		--rs-dnd-color: /*[[dnd]]*/
+		!important;
+		--rs-offline-color: /*[[off]]*/
+		!important;
+		--rs-streaming-color: /*[[stream]]*/
+		!important;
+		/* How Round The PFP is 50% = Circle 0% = Square */
+		--avatarradius: /*[[avr]]*/;
+
+		/* Custom Images */
+		/* https://i.imgur.com/8BZf6LEh.png */
+		--background-image: url(/*[[backgmurl]]*/);
+		--popout-modal-image: url(/*[[popmurl]]*/);
+		--home-button-image: url(/*[[homeburl]]*/);
+
+
+		/* Background Image Shit */
 		--background-image-blur: 3px;
 		--background-image-size: cover;
 		--background-image-position: center center;
-		--popout-modal-image: url('https://i.imgur.com/bLjT5yC.png');
+
+		/* User Popout Shit */
 		--popout-modal-blur: 3px;
 		--popout-modal-size: cover;
 		--popout-modal-position: center center;
-		--home-button-image: url('https://i.imgur.com/ehZc5Kd.png');
+
+		/* Home Button Shit */
 		--home-button-size: cover;
 		--home-button-position: center center;
+
+		/* Global Brightness of Discord */
 		--serverlist-brightness: 0.8;
 		--left-brightness: 0.8;
 		--middle-brightness: 0.6;
-		--right-brightness: 0;
+		--right-brightness: 0.6;
 		--popout-modal-brightness: 0.75;
-		--gradient-primary: var(--phancolor-1);
-		--gradient-secondary: var(--phancolor-2);
-		--scrollbar-colour: rgba(255, 255, 255, 0.05);
-		--link-colour: var(--phancolor-2);
-		--gradient-direction: 180deg;
-		--tint-colour: 255, 0, 0;
-		--tint-brightness: 0.04;
-		--font: 'Whitney';
+
+		/* How Far Discord is Zoomed out */
 		--window-padding: 20px;
+		/* How Round The Window is */
 		--window-roundness: 10px;
+
+		/* Activity Card Colors */
+		--xbox-bg: #107C10;
+		--xbox-bg-backdrop: #0a530a;
+		--spotify-bg: #1DB954;
+		--spotify-bg-backdrop: #218F4F;
+		--streaming-bg: #9059F6;
+		--streaming-bg-backdrop: #694EA8;
+		--default-bg: var(--javcolor-c1);
+		--default-bg-backdrop: var(--javcolor-ts1);
+		/* Gradients Colors */
+		--special-gradient: var(--gradient-direction-2), #8980F0 0%, #D577F0 74%;
+		--red-gradient: var(--gradient-direction-2), #AA3738 0%, #F04747 74%;
+		--yellow-gradient: var(--gradient-direction-2), #C2831B 0%, #FFB740 74%;
+		--green-gradient: var(--gradient-direction-2), #264D41 0%, #43B581 74%;
+		--grey-gradient: var(--gradient-direction-2), #373A45 0%, #747F8D 74%;
+		--white-gradient: var(--gradient-direction-2), rgba(255, 255, 255, 0.2) 0%, rgba(255, 255, 255, 0) 74%;
+
+		/* Warning */
+		/* Don't Mess With Unless You Know What Your Doing */
+		--font: 'Whitney';
 		--show-gift-gif-buttons: none;
 		--update-notice-1: none;
 		--rs-small-spacing: 0px;
 		--rs-large-spacing: 0px;
 		--rs-width: 2.5px;
-		--rs-avatar-shape: 50%;
-		--rs-online-color: var(--phancolor-p1);
-		--rs-idle-color: #16b983;
-		--rs-dnd-color: #ac0b0b;
-		--rs-offline-color: #ffffff;
-		--rs-streaming-color: #5e00ff;
-		--rs-invisible-color: var(--phancolor-2);
+		--tint-brightness: 0.04;
+		--accentcolor: var(--javcolor-1);
+		--gradient-primary: var(--javcolor-1);
+		--gradient-secondary: var(--javcolor-2);
+		--scrollbar-colour: var(--javcolor-sb1);
+		--link-colour: var(--javcolor-2);
+		--linkcolor: var(--javcolor-2);
+		--tint-colour: var(--javcolor-1);
+		--rs-avatar-shape: var(--avatarradius);
+		--avatar-radius: var(--avatarradius);
+		--rs-online-color: var(--javcolor-p1);
+		--rs-invisible-color: var(--javcolor-1);
+		/* Cards */
+		--activity-border-radius: 3px;
+		--activity-box-shadow: 2px 2px 2px;
+		--activity-modal-color: var(--background-tertiary);
+		/* Gradients */
+		--default-gradient: var(--gradient-direction-2), var(--javcolor-g1), var(--javcolor-g2);
+		--gradient-direction: 180deg;
+		--gradient-direction-2: 315deg;
 		/* Hover Scale */
 		--HoverScale: 1.025;
 		/* Transition Time */
 		--TransitionTime: 0.25s;
 		/* Ease Type */
 		--EaseType: cubic-bezier(0, 0.75, 0, 1.75);
-		/* DiscordRecolor */
-		--accentcolor: var(--phancolor-1);
-		/*	blurple	-	default:	114,137,218		*/
-		--linkcolor: 137, 69, 176;
-		/*	link	-	default:	0,176,244		*/
-		/* Gradients */
-		--default-gradient: 315deg, #c0b440 0%, #8945b0ab 74%;
-		--special-gradient: 315deg, #8980F0 0%, #D577F0 74%;
-		--red-gradient: 315deg, #AA3738 0%, #F04747 74%;
-		--yellow-gradient: 315deg, #C2831B 0%, #FFB740 74%;
-		--green-gradient: 315deg, #264D41 0%, #43B581 74%;
-		--grey-gradient: 315deg, #373A45 0%, #747F8D 74%;
-		--white-gradient: 315deg, rgba(255, 255, 255, 0.2) 0%, rgba(255, 255, 255, 0) 74%;
 		/* Transitions */
 		--font-normal: 500;
 		--font-hover: bold;
@@ -112,37 +176,21 @@
 		--hover-transform: scale(1.15);
 		--setting-hover-transform: scale(1.025);
 		--button-hover-transform: scale(1.03);
-		--unread-badge: var(--phancolor-1);
-		--unread-bg: rgba(var(--phancolor-1), .6);
-		--selected-badge: var(--phancolor-1);
-		--selected-bg: rgba(var(--phancolor-1), .1);
-		--selected-bg-hover: rgba(var(--phancolor-1), .18);
-		--hovered-bg: rgba(var(--phancolor-1), 0.25);
 		--bg-rounding: 0 0px 0px 0;
 		--border-info: 2px solid;
 		--background-message-hover: transparent;
-		/* Cards */
-		--activity-modal-color: var(--background-tertiary);
-		--activity-border-radius: 3px;
-		--activity-box-shadow: 2px 2px 2px;
-		/* Activity Card Colors */
-		--default-bg: var(--phancolor-c1);
-		--default-bg-backdrop: rgba(var(--phancolor-1), .84);
-		--xbox-bg: #107C10;
-		--xbox-bg-backdrop: #0a530a;
-		--spotify-bg: #1DB954;
-		--spotify-bg-backdrop: #218F4F;
-		--streaming-bg: #9059F6;
-		--streaming-bg-backdrop: #694EA8;
-
-		--avatar-radius: 50%;
-		/* if you want your avatar more or less round it's here */
-		--nsfw-color: var(--phancolor-p2);
-		--sfw-color: var(--phancolor-p1);
-
-		--burple: var(--phancolor-p1);
+		--unread-badge: var(--javcolor-1);
+		--unread-bg: var(--javcolor-t1);
+		--selected-badge: var(--javcolor-1);
+		--selected-bg: var(--javcolor-tt1);
+		--selected-bg-hover: var(--javcolor-ttt1);
+		--hovered-bg: var(--javcolor-tttt1);
 		--scrollbar-thumb-dark: #f8f9fa !important;
 		--scrollbar-track-dark: --burple !important;
+		--burple: var(--javcolor-p1);
+		--nsfw-color: var(--javcolor-p2);
+		--sfw-color: var(--javcolor-p1);
+		/* Don't Mess With Unless You Know What Your Doing */
 	}
 	.circleIconButton-jET_ig {
 		color: var(--sfw-color);
@@ -163,10 +211,10 @@
 		color: black;
 	}
 	.unreadMentionsBar-1VrBNe {
-		background-color: var(--phancolor-1);
+		background-color: var(--javcolor-p1);
 	}
 	.lowerBadge-29hYVK .numberBadge-2s8kKX {
-		background-color: var(--phancolor-p1) !important;
+		background-color: var(--javcolor-p1) !important;
 	}
 
 	[aria-label*="(NSFW)"] ~ .name-23GUGE:before {
