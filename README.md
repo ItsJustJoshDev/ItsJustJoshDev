@@ -11,9 +11,9 @@
 >
 ### Things I'm Doing or Working On
 
-- 🔭 I’m currently working on **[SpotifyEnhanced](https://github.com/TheRealGWJosh/CSS-UserCSS-Themes#1-spotifyenhanced)**
-- 🌱 I’m currently learning user.styl, user.css, and css Code
-- 📫 How to reach me: My DIscord Servers or Dm Me **TheRealGWJosh#0001**
+- 🔭 I’m currently working on **[Project Stylus](https://github.com/TheRealGWJosh/CSS-UserCSS-Themes)**
+- 🌱 I’m currently learning user.styl, user.css, and css code
+- 📫 How to reach me: My DIscord Servers or Dm Me **It'sJustJosh#1156**
 
 # My Socials & Stats
 >
