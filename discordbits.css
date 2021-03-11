@@ -1,0 +1,580 @@
+@import url(https://cdn.jsdelivr.net/gh/tonsky/FiraCode@1.207/distr/fira_code.css);
+@import url('https://tropix126.github.io/BetterDiscordStuff/blockBetterDocs.css');
+@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Microsoft.css);
+@import url('https://therealgwjosh.github.io/CustomUserBadges/main/main.css');
+@import url("https://devinkid1.github.io/Pop/base.css");
+@import url("https://nyri4.github.io/Discolored/main.css");
+@import url("https://landidev.github.io/crearts-discord/Addons/blur-details");
+@import url("https://landidev.github.io/crearts-discord/Animated/home-button.css");
+@import url("https://landidev.github.io/crearts-discord/Animated/avatar-hover.css");
+@import url("https://landidev.github.io/crearts-discord/Animated/icons-hover.css");
+@import url("https://landidev.github.io/crearts-discord/Animated/card-hover.css");
+@import url("https://landidev.github.io/crearts-discord/Removed/edited.css");
+@import url("https://landidev.github.io/crearts-discord/Removed/nitro-home.css");
+@import url("https://landidev.github.io/crearts-discord/Removed/chat-header.css");
+@import url("https://landidev.github.io/crearts-discord/Removed/gif-nitro-chat.css");
+@import url('https://therealgwjosh.github.io/CustomUserBadges/main/main.css');
+@import url("https://monstrousdev.github.io/themes/addons/userSettingsModal.css");
+
+code, .codeLine-14BKbG { font-family: 'Fira Code', monospace; }
+
+	:root { 
+		/* Gradients Colors */
+		--special-gradient: var(--gradient-direction-2),
+		#8980F0 0%,
+		#D577F0 74%;
+		--red-gradient: var(--gradient-direction-2),
+		#AA3738 0%,
+		#F04747 74%;
+		--yellow-gradient: var(--gradient-direction-2),
+		#C2831B 0%,
+		#FFB740 74%;
+		--green-gradient: var(--gradient-direction-2),
+		#264D41 0%,
+		#43B581 74%;
+		--grey-gradient: var(--gradient-direction-2),
+		#373A45 0%,
+		#747F8D 74%;
+		--white-gradient: var(--gradient-direction-2),
+		rgba(255,
+		255,
+		255,
+		0.2) 0%,
+		rgba(255,
+		255,
+		255,
+		0) 74%;
+
+		/* Warning */
+		/* Don't Mess With Unless You Know What Your Doing */
+		/* Gradients */
+		--default-gradient: 315deg,#87dfdf 0%,#6a23d3 74%;
+		--gradient-direction: 180deg;
+		--gradient-direction-2: 315deg;
+		/* Hover Scale */
+		--HoverScale: 1.025;
+		/* Transition Time */
+		--TransitionTime: 0.25s;
+		/* Ease Type */
+		--EaseType: cubic-bezier(0,
+		0.75,
+		0,
+		1.75);
+		/* Transitions */
+		--font-normal: 500;
+		--font-hover: bold;
+		--font-size-hover: 15px;
+		--hover-transition: 0.1s linear;
+		--transform-normal: scale(1);
+		--hover-transform: scale(1.15);
+		--setting-hover-transform: scale(1.025);
+		--button-hover-transform: scale(1.03);
+		--bg-rounding: 0 0px 0px 0;
+		--border-info: 2px solid;
+		--background-message-hover: transparent;
+		--unread-badge: var(--maincolor-1);
+		--unread-bg: var(--maincolor-t1);
+		--selected-badge: var(--maincolor-1);
+		--selected-bg: var(--maincolor-tt1);
+		--selected-bg-hover: var(--maincolor-ttt1);
+		--hovered-bg: var(--maincolor-tttt1);
+		/* Don't Mess With Unless You Know What Your Doing */
+	}
+
+/*  */
+#app-mount div.layerContainer-yqaFcK.da-layerContainer div.backdropWithLayer-3_uhz4.da-backdropWithLayer, .da-backdrop, #app-mount .layer-3QrUeG[aria-label*=SETTINGS] .contentRegion-3nDuYy .tools-3-3s-N .closeButton-1tv5uR::after, #app-mount .layer-3QrUeG[aria-label*=RTC] .contentRegion-3nDuYy .tools-3-3s-N .closeButton-1tv5uR::after {
+    backdrop-filter: blur(7px);
+}
+.container-PNkimc[aria-label="Black Box"] {
+    transform:translateZ(0);
+}
+
+.container-PNkimc[aria-label="Black Box"] .header-2o-2hj {
+    box-shadow:none;
+    background:transparent;
+}
+
+.container-PNkimc[aria-label="Black Box"] div[style*="visibility: hidden;"]:first-child {
+    padding-top:87px;
+}
+
+.container-PNkimc[aria-label="Black Box"] div[style*="visibility: hidden;"] {
+    visibility:visible !important;
+}
+
+.container-PNkimc[aria-label="Black Box"] div[style*="visibility: hidden;"]:first-child::after {
+    content:'';
+    height:135px;
+    width:100%;
+    top:0;
+    left:0;
+    position:fixed;
+    background:url('http://i.picpar.com/BSwd.png') center/110% no-repeat;
+    box-shadow:var(--elevation-low), inset 0 0 0 135px rgba(0,0,0,0.5);
+    pointer-events:none;
+    transition:350ms ease;
+    opacity:0;
+    z-index:1;
+}
+
+.container-PNkimc[aria-label="Black Box"] div[style*="width: 100%; height: 0px; visibility: hidden;"]:first-child::after {
+    opacity:1;
+    background-size:100%;
+}
+/*hover == false*/
+[class^="toolbar-"]{
+    max-width: 40px;
+    transition: max-width 1.5s;
+    -webkit-transition: max-width 1.5s;
+    -moz-transition: max-width 1.5s;
+    -o-transition: max-width 1.5s;
+    height: 100%;
+}
+[class^="toolbar-"]::before{
+    content: "︙";
+    font-size: 24px;
+    margin: 0 8px;
+}
+/*hover == true*/
+[class^="toolbar-"]:hover{
+    max-width: 100vw;
+}
+[class^="toolbar-"]:hover::before{
+    content: "<";
+    font-size: 24px;
+    margin: 0 8px;
+}
+.emoji.jumboable {
+    width:2rem;
+    height:2rem;
+    margin-right:2px;
+    min-height:unset;
+}
+.iconWrapper-2OrFZ1::after {
+    content:'';
+    position:absolute;
+    background:#fff;
+    width:100%;
+    height:100%;
+    top:0;
+    left:0;
+    border-radius:inherit;
+    opacity:0;
+    pointer-events:none;
+    transform:scale(0);
+    transition: opacity 50ms linear;
+}
+.iconWrapper-2OrFZ1:active::after {
+    transform:scale(1);
+    opacity:.24;
+    transition: opacity 50ms linear, transform 150ms ease;
+}
+/* Make the home button bounce like a basketball */
+/* On hover */
+@keyframes bounce {
+    from {bottom: 0px;}
+    to {bottom: 5px;}
+}
+
+.container-1ETFDs:hover {
+    animation: bounce .4s ease-in-out infinite alternate;
+}
+	/*CustomKickText*/
+	#user-context-kick .label-22pbtT {
+		margin-left: 3px
+	}
+	#user-context-kick:before {
+		position: absolute;
+		content: "Yeet";
+		background: var(--background-floating);
+	}
+	#user-context-kick.focused-3afm-j:before {
+		background: #f04747
+	}
+	/*CustomKickText*/
+	.reactions-12N0jA .reaction-1hd86g {
+		border-radius: 15px !important;
+	}
+	/*-------Account Information Blur-------*/
+	.colorHeaderPrimary-26Jzh- {
+		filter: blur(5px);
+		transition: 300ms;
+	}
+	.colorHeaderPrimary-26Jzh-:hover {
+		filter: none;
+	}
+	/*-----------------------------------------*/
+	/*-----Check box/circle thingy mabob when uploading files-----*/
+	.checkbox-1ix_J3.checked-3_4uQ9[style*="border-color: rgb(114, 137, 218)"] {
+		background-color: var(--main-color) !important;
+		/*adds background color to "Mark as spoiler" check box/circle when checked*/
+	}
+	/*------------------------------------------------------------*/
+	/*-------Blur spoiler-------*/
+	/*blurs spoiler text instead of having a black bar over it*/
+	.contents-2mQqc9 .spoilerText-3p6IlD.hidden-HHr2R9,
+	.contents-2mQqc9 .spoilerText-3p6IlD.hidden-HHr2R9:hover,
+	.contents-2mQqc9 .spoilerText-3p6IlD {
+		background: rgb(130, 130, 130, 0.1);
+		/*adds minor grey-ish filter to differentiate spoilted text from normal text*/
+		border-radius: 7px;
+		/*adds rounded edges for the filter described above*/
+	}
+	.contents-2mQqc9 .spoilerText-3p6IlD.hidden-HHr2R9 > .inlineContent-3ZjPuv {
+		filter: blur(3px);
+		/*adds blur filter when text is left alone*/
+		opacity: 1;
+		/*makes blurred text fully opaque*/
+	}
+	.contents-2mQqc9 .spoilerText-3p6IlD.hidden-HHr2R9:hover > .inlineContent-3ZjPuv {
+		filter: none;
+		/*removes blur filter on hover*/
+		opacity: 1;
+		/*makes text opacity look like normal, non-spoiled text on hover*/
+	}
+	/*--------------------------*/
+	/*-----Connections-----*/
+	.connection-1fbD7X,
+	.connectionHeader-2MDqhu {
+		background-color: rgb(130, 130, 130, 0.1);
+		/*makes the background for each acc connection partially transparent*/
+	}
+	/*---------------------*/
+	.folder-21wGz3 {
+		filter: blur(2px);
+		border-radius: 25px;
+	}
+	.folder-21wGz3:hover {
+		filter: blur(0px);
+		border-radius: 25px;
+	}
+	/*------Call Dock------*/
+	.wrapper-3EGhDO {
+		background-color: var(--background-secondary);
+		border-radius: 25px;
+		padding: 0px;
+	}
+	.colorable-1bkp8v.white-3GPOIp,
+	.colorable-1bkp8v.white-3GPOIp .centerIcon-2G6o-T {
+		color: currentColor;
+	}
+	.colorable-1bkp8v.primary-3NQg8g,
+	.colorable-1bkp8v.primary-3NQg8g.active-1QRrIS,
+	.colorable-1bkp8v.primary-3NQg8g:hover,
+	.colorable-1bkp8v.white-3GPOIp,
+	.centerButton-3CaNcJ,
+	.colorable-1bkp8v.white-3GPOIp.active-1QRrIS,
+	.colorable-1bkp8v.white-3GPOIp:hover,
+	.colorable-1bkp8v.red-33-Lnk {
+		background: none !important;
+	}
+	/*---------------------*/
+	/*-------Plus Button Popout when Listening to Spotify--------*/
+	.popout-2iWAc- {
+		background-color: rgb(0, 0, 0);
+		/*sets background color to black. might wanna change to white depending on theme*/
+		/*affects the background color for customized status dropdown as well*/
+	}
+	.attachPopoutRowText-2R5RC2 {
+		color: var(--main-color);
+		/*text color for options listed*/
+	}
+	/*-------------------------------------------------------------*/
+	/*----------Button separators----------*/
+	.container-3baos1 > .flex-1O1GKY > :nth-child(n + 2):before,
+	.container-1giJp5 > .flex-1O1GKY > :nth-child(n + 2):before {
+		display: none;
+		/*removes the thin lines between icons*/
+	}
+	/*-------------------------------------*/
+	/*------Option Boxes in Settings Pages------*/
+	/*Check Box/Circle*/
+	.cardPrimaryEditable-3KtE4g .checkboxWrapper-SkhIWG .checkbox-1ix_J3.checked-3_4uQ9,
+	.theme-dark .checkbox-1ix_J3 {
+		border-radius: 15px;
+		/*Turns the pretty much all check boxes in existence into a check circle (yes, even outside the settings page)*/
+	}
+	.theme-dark .checked-3_4uQ9 {
+		border-color: transparent !important;
+		/*Removes the border of the check circle (or box) when selected in
+  Safe Direct Messaging*/
+	}
+
+	/*Selection Box*/
+	.theme-dark .card-3Qj_Yx {
+		border-radius: 21px;
+		/*makes the boxes more rounded on the edges. max roundess: 21px*/
+	}
+	/*------------------------------------------*/
+	/*-------Follow Channels Modal-------*/
+	/*Drop Down Menu*/
+	.css-3vaxre-menu {
+		background-color: rgb(0, 0, 0);
+		/*makes the dropdown menu background black and thus the text easier to read*/
+		/*might want to change depending on theme*/
+		border-color: transparent;
+		/*gets rid of the border*/
+		border-radius: 15px;
+		/*just in case you want a border, it looks nice and rounded*/
+	}
+
+
+	/*Send To & Select Channel Boxes*/
+	/*No Selection*/
+	.css-gvi9bl-control {
+		border-color: rgba(var(--main-color-numerical), 0.6);
+		border-radius: 15px;
+		/*Not hovering*/
+	}
+	.css-gvi9bl-control:hover {
+		border-color: var(--main-color);
+		/*Hovering*/
+	}
+
+	/*No Drop Down Menu*/
+	.css-17e1tep-control:hover {
+		border-color: var(--main-color);
+		border-radius: 15px;
+	}
+	.css-17e1tep-control {
+		border-radius: 15px;
+		border-color: rgba(var(--main-color-numerical), 0.6);
+	}
+
+	/*Drop Down Menu*/
+	.css-6fzn47-control {
+		border-radius: 15px;
+		border-color: rgba(var(--main-color-numerical), 0.6);
+	}
+	.css-6fzn47-control:hover {
+		border-color: var(--main-color);
+		border-radius: 15px;
+	}
+	/*-------------------------------------------------*/
+	/* setting button spinning */
+	@keyframes spin {
+		from {
+			transform: rotate(0deg);
+		}
+		to {
+			transform: rotate(360deg);
+		}
+	}
+	.button-14-BFJ[aria-label="User Settings"]:hover svg {
+		animation: spin 2s linear infinite;
+	}
+	.sidebar-2K8pFh {
+		border-bottom-left-radius: 8px;
+	}
+	.sidebar-CFHs9e {
+		padding-top: 10px;
+		padding-bottom: 10px;
+		padding-left: 10px;
+	}
+	.sidebarRegion-VFTUkN {
+		flex: 0 0 auto;
+	}
+	.contentColumn-2hrIYH,
+	.customColumn-Rb6toI {
+		max-width: unset;
+	}
+	.sidebarRegion-VFTUkN {
+		margin: 10px;
+		border-radius: 8px;
+	}
+	.overlay-4k_Q4- {
+		border-radius: 40px;
+	}
+	.avatarUploaderIndicator-2G-aIZ {
+		display: none;
+	}
+	.avatarUploaderInner-2EvNMg {
+		border-radius: 8px;
+	}
+
+	.sidebarRegionScroller-3MXcoP {
+		border-radius: 8px;
+	}
+	.contentColumn-2hrIYH {
+		padding: 10px;
+	}
+	.contentRegion-3nDuYy {
+		margin: 10px;
+	}
+	.contentRegionScroller-26nc1e,
+	.contentTransitionWrap-3hqOEW,
+	.contentRegion-3nDuYy {
+		border-radius: 8px;
+	}
+
+	.standardSidebarView-3F1I7i {
+		background: var(--background-secondary-alt);
+	}
+	.toolsContainer-1edPuj {
+		margin-right: 5px!important;
+		padding-top: 10px!important;
+	}
+
+
+
+
+	#app-mount .profileBadge-2niAfJ.profileBadgeHypesquad-12E2P6 {
+		background-image: url(/assets/6c73f47daf179ffade99f501bfc5101b.svg);
+	}
+	#app-mount .profileBadge-2niAfJ.profileBadgeHypeSquadOnlineHouse1-3rBtjf {
+		background-image: url(/assets/64ae1208b6aefc0a0c3681e6be36f0ff.svg);
+	}
+	#app-mount .profileBadge-2niAfJ.profileBadgeHypeSquadOnlineHouse2-2oU04B {
+		background-image: url(/assets/48cf0556d93901c8cb16317be2436523.svg);
+	}
+	#app-mount .profileBadge-2niAfJ.profileBadgeHypeSquadOnlineHouse3-1DoJkv {
+		background-image: url(/assets/9fdc63ef8a3cc1617c7586286c34e4f1.svg);
+	}
+	#app-mount .profileBadge-2niAfJ.profileBadgeBugHunterLevel1-dbEzVz {
+		background-image: url(/assets/f61b8981e92feead854f52e5a1ba14f0.svg);
+	}
+	#app-mount .profileBadge-2niAfJ.profileBadgeBugHunterLevel2-3TUciC {
+		background-image: url(/assets/9286332d6e947c91fa91569efce431b0.svg);
+	}
+	#app-mount .profileBadge-2niAfJ.profileBadgeEarlySupporter-2ng_jL {
+		background-image: url(/assets/23e59d799436a73c024819f84ea0b627.svg);
+	}
+	#app-mount .profileBadge-2niAfJ.profileBadgePremium-1KDZYC {
+		background-image: url(/assets/386884eecd36164487505ddfbac35a9d.svg);
+	}
+	#app-mount .profileBadge-2niAfJ.profileGuildSubscriberlvl1-3oI9tx {
+		background-image: url(/assets/fbb6f1e160280f0e9aeb5d7c452eefe1.svg);
+	}
+	#app-mount .profileBadge-2niAfJ.profileGuildSubscriberlvl2-r6nJHT {
+		background-image: url(/assets/b4b741bef6c3de9b29e2e0653e294620.svg);
+	}
+	#app-mount .profileBadge-2niAfJ.profileGuildSubscriberlvl3-38s3Dj {
+		background-image: url(/assets/93f5a393e22796a850931483166d7cb9.svg);
+	}
+	#app-mount .profileBadge-2niAfJ.profileGuildSubscriberlvl4-2NXrsI {
+		background-image: url(/assets/4c380650960c2b1e1584115d5e9ad63b.svg);
+	}
+	#app-mount .profileBadge-2niAfJ.profileGuildSubscriberlvl5-3XIa2K {
+		background-image: url(/assets/438dd7ecbffcf21b6cbf2773ade51a04.svg);
+	}
+	#app-mount .profileBadge-2niAfJ.profileGuildSubscriberlvl6-3e3sxW {
+		background-image: url(/assets/7a5f78de816fcecbbd1d5d6e635cc7dd.svg);
+	}
+	#app-mount .profileBadge-2niAfJ.profileGuildSubscriberlvl7-1dVhQT {
+		background-image: url(/assets/5a24b20b84fb3eafc138916729386e76.svg);
+	}
+	#app-mount .profileBadge-2niAfJ.profileGuildSubscriberlvl8-1kXdFr {
+		background-image: url(/assets/f31d590e1f3629cd0b614330f4a8ee2a.svg);
+	}
+	#app-mount .profileBadge-2niAfJ.profileGuildSubscriberlvl9-1d6zav {
+		background-image: url(/assets/9ba64f1fa91ccde0eba506c1c33f3d1a.svg);
+	}
+	#app-mount .profileBadge-2niAfJ.profileBadgeStaff-3BXdTO {
+		background-image: url(/assets/4358ad1fb423b346324516453750f569.svg);
+	}
+	#app-mount .profileBadge-2niAfJ.profileBadgePartner-j6Lwhr {
+		background-image: url(/assets/6203964d9d25c394a573fd4f6be36d97.svg);
+	}
+	#app-mount .profileBadge-2niAfJ.profileBadgeVerifiedDeveloper-195KfD {
+		background-image: url(/assets/45cd06af582dcd3c6b79370b4e3630de.svg);}
+
+	.inline-2bgipb.hiddenSpoilers-1ksnR6 {
+		visibility: visible;
+	}
+	.inline-2bgipb.hiddenSpoilers-1ksnR6 img {
+		filter: blur(3rem);
+	}
+	.inline-2bgipb.hiddenSpoilers-1ksnR6::after {
+		content: "SPOILER";
+		color: var(--text-normal);
+		display: block;
+		text-align: center;
+		top: calc(50% - 0.5rem);
+		position: absolute;
+		width: 100%;
+		font-weight: bold;
+	}
+	.search-36MZv- {
+		order: -1;
+	}
+	.searchBar-3dMhjb {
+		width: 28px;
+		transition: width 0.6s ease-in-out;
+		color: #fff;
+		background: none;
+	}
+	.focused-31_ccS .searchBar-3dMhjb,
+	.open-6_Y_aH .searchBar-3dMhjb,
+	.searchBar-3dMhjb:hover {
+		width: 240px;
+		background: var(--background-tertiary);
+	}
+	.icon-3cZ1F_ {
+		height: 24px;
+		width: 24px;
+		color: var(--interactive-normal);
+	}
+	.iconContainer-O4O2CN {
+		bottom: 3px;
+	}
+	.search-36MZv- {
+		margin-left: 0px;
+	}
+
+
+	/* -- Repairing the damages -- */
+	/* Emote information popup */
+	.emojiSection-3Fb9ix > .flex-1xMQg5,
+	.popoutContainer-1MXdqN > .flex-1xMQg5 {
+		flex-direction: column;
+		align-items: center;
+	}
+	.emojiSection-3Fb9ix > .flex-1xMQg5 > .flex-1xMQg5,
+	.popoutContainer-1MXdqN > .flex-1xMQg5 > .flex-1xMQg5 {
+		margin-left: 0px;
+	}
+	.primaryEmoji-3LinDq {
+		margin: 0px 0px 12px 0;
+	}
+	.popoutContainer-1MXdqN {
+		width: auto;
+	}
+
+	/* Server Boost */
+	.ctaBar-2UsjF2 {
+		margin: auto;
+	}
+
+	[aria-label="Servers"] div img {
+		filter: blur(3px);
+		transition: all 0.5s ease-in-out;
+	}
+	[aria-label="Servers"] div:hover img,
+	div.selected img {
+		filter: none
+	}
+	.base-1pYU8j {
+		transition: all 0.5s;
+	}
+	.base-1pYU8j:hover {
+		transition: all 0s;
+		transform: scale(1.02);
+	}
+	.tip-2cgoli,
+	.tipTitle-GL9qAt {
+		font-size: 0px!important;
+	}
+	.tip-2cgoli .keybind-2jbzrT {
+		display: none;
+	}
+	.tipTitle-GL9qAt::after {
+		font-size: 16px;
+		content: "Discord Is Cool"
+	}
+	.tip-2cgoli::after {
+		font-size: 16px;
+		content: 'Themes Make It Better';
+	}
+	[aria-label="Download Apps"] {
+		display: none;
+	}
