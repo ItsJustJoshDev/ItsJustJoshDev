@@ -11,7 +11,7 @@
 >
 ### Things I'm Doing or Working On
 
-- 🔭 I’m currently working on **[Project Stylus](https://github.com/TheRealGWJosh/CSS-UserCSS-Themes)**
+- 🔭 I’m currently working on **[Project Browser](https://github.com/Project-Browser)**
 - 🌱 I’m currently learning user.styl, user.css, and css code
 - 📫 How to reach me: My DIscord Servers or Dm Me **It'sJustJosh#1156**
 
