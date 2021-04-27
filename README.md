@@ -11,13 +11,13 @@
 >
 ### Things I'm Doing or Working On
 
-- 🔭 I’m currently working on **[Project Browser](https://github.com/Project-Browser)**
+- 🔭 I’m currently working on **[Idk](https://github.com/TheRealGWJosh)**
 - 🌱 I’m currently learning user.styl, user.css, and css code
 - 📫 How to reach me: My DIscord Servers or Dm Me **It'sJustJosh#1156**
 
 # My Socials & Stats
 >
-> ***Here is My Spotify*** **[Neko Josh](https://open.spotify.com/user/jonnpetemalava)**
+> ***Here is My Spotify*** **[Joshua Malava](https://open.spotify.com/user/jonnpetemalava)**
 >
 > ***Here is My Steam ID and Link*** **[479499403](https://steamcommunity.com/id/TRGWJosh/)**
 >
@@ -31,7 +31,6 @@
 > **pings This Will be because of the many bots i will have to configure**
 >
 > [![My Discord Server](https://img.shields.io/discord/797173403505000539?color=gold&label=Joshua%27s%20Facility&logo=discord&logoColor=gold&style=for-the-badge)](https://discord.gg/jmwQxmauwK)
-> [![My Other Discord Server](https://img.shields.io/discord/797173127725580339?color=gold&label=The%20Phantom%20Thieves&logo=discord&logoColor=gold&style=for-the-badge)](https://discord.gg/TNSMQsCWzq)
 
 ## My Github Stats 
 <a href="https://github.com/therealgwjosh">
