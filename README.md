@@ -11,9 +11,14 @@
 >
 ### Things I'm Doing or Working On
 
-- 🔭 I’m currently working on **[Idk](https://github.com/TheRealGWJosh)**
-- 🌱 I’m currently learning user.styl, user.css, and css code
-- 📫 How to reach me: My DIscord Servers or Dm Me **It'sJustJosh#1156**
+- 🔭 I’m currently working on **[Content for Discord](https://discord.com/app)**
+- 🌱 I’m currently learning css, js, & stylus
+- 📫 How to reach me: My DIscord Servers or Dm Me **It'sJustJosh#2812**
+
+**Languages and Tools:**  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://cdn.discordapp.com/emojis/763439056876994590.png?v=1"></code>
 
 # My Socials & Stats
 >
