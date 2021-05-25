@@ -1,0 +1,16 @@
+@import url('https://flashc0rd.github.io/BetterBG/bg/backgrounds.css');
+@import url('https://discord-custom-covers.github.io/usrbg/dist/usrbg.css');
+
+.userPopout-3XzG_A[style*="--user-background"] div.profileBanner-j34RzR.banner-3gRYg5{
+    height: 120px;
+    background: var(--user-background) center / cover;
+}
+.userPopout-3XzG_A[style*="--user-background"] .avatarPositionNormal-1CZUPk {
+    top: 76px;
+}
+
+.profileBanner-j34RzR, .userPopout-3XzG_A[style*="--user-background"]{
+height: 120px;
+background: var(--user-background) center / cover;}
+.avatarPositionNormal-1CZUPk, .userPopout-3XzG_A[style*="--user-background"]{top: 80px;}
+.userPopout-3XzG_A,div.profileBannerPremium-2RxXQ9{width: 340px !important;}
