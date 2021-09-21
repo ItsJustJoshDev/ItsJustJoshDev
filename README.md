@@ -21,7 +21,7 @@
 <code><img height="20" src="https://cdn.discordapp.com/emojis/763439056876994590.png?v=1"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/TheRealGWJosh/TheRealGWJosh/main/BetterDiscord.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/TheRealGWJosh/TheRealGWJosh/main/Stylus.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/TheRealGWJosh/TheRealGWJosh/main/Vizality.svg"></code>
+<code><img height="15" src="https://raw.githubusercontent.com/TheRealGWJosh/TheRealGWJosh/main/Vizality.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/TheRealGWJosh/TheRealGWJosh/main/Powercord.svg"></code>
 
 # My Socials & Stats
