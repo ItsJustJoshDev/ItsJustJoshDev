@@ -39,7 +39,7 @@
 >
 > **pings This Will be because of the many bots i will have to configure**
 >
-> [![My Discord Server](https://img.shields.io/discord/797173403505000539?color=gold&label=Joshua%27s%20Facility&logo=discord&logoColor=gold&style=for-the-badge)](https://discord.gg/jmwQxmauwK)
+> [![My Discord Server](https://img.shields.io/discord/818960705255899178?color=gold&label=Joshua%27s%20Palace&logo=discord&logoColor=gold&style=for-the-badge)](https://discord.gg/qafdmryEye)
 
 ## My Github Stats 
 <a href="https://github.com/therealgwjosh">
