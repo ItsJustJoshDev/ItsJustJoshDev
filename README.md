@@ -1,6 +1,4 @@
-# Discord
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/362628885361197056)](https://discord.com/users/362628885361197056)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/362628885361197056)](https://discord.com/users/363628885361197056)
 
 ## About Me
 ### Games I Play
