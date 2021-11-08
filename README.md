@@ -1,5 +1,8 @@
 <a href="https://discord.com/users/362628885361197056"><img align="left" src="https://lanyard-profile-readme-nyria.vercel.app/api/362628885361197056?bg=23283d&borderRadius=8px&hideDiscrim=false"/></a>
 
+![Discord Banner 4](https://discordapp.com/api/guilds/818960705255899178/widget.png?style=banner4)
+
+
 <a href="https://github.com/therealgwjosh">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealgwjosh&layout=compact&theme=dark" />
 </a>
