@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/362628885361197056)](https://discord.com/users/363628885361197056)
+<a href="https://discord.com/users/362628885361197056"><img align="left" src="https://lanyard-profile-readme-nyria.vercel.app/api/362628885361197056?bg=23283d&borderRadius=8px&hideDiscrim=false"/></a>
 
 ## About Me
 ### Games I Play
