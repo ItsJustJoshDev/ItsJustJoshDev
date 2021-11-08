@@ -2,8 +2,6 @@
 
 [![My Discord Server](https://img.shields.io/discord/818960705255899178?color=gold&label=Joshua%27s%20Palace&logo=discord&logoColor=gold&style=for-the-badge)](https://discord.gg/qafdmryEye)
 
-
-**Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="20" src="https://cdn.discordapp.com/emojis/763439056876994590.png?v=1"></code>
