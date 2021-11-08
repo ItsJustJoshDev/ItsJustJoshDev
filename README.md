@@ -1,21 +1,7 @@
 <a href="https://discord.com/users/362628885361197056"><img align="left" src="https://lanyard-profile-readme-nyria.vercel.app/api/362628885361197056?bg=23283d&borderRadius=8px&hideDiscrim=false"/></a>
 
-## About Me
-### Games I Play
->
-> I Play a Lot Of
-> **SCP: Secret Laboratory**
-> **Azur Lane**
-> More Will Be Added Soon
->
-> I listen to a lot of
-> **Video Game OST**
->
-### Things I'm Doing or Working On
+[![My Discord Server](https://img.shields.io/discord/818960705255899178?color=gold&label=Joshua%27s%20Palace&logo=discord&logoColor=gold&style=for-the-badge)](https://discord.gg/qafdmryEye)
 
-- 🔭 I’m currently working on **[Content for Discord](https://discord.com/app)**
-- 🌱 I’m currently learning css, js, & stylus
-- 📫 How to reach me: My DIscord Servers or Dm Me **It'sJustJosh#2812**
 
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -41,7 +27,6 @@
 >
 > **pings This Will be because of the many bots i will have to configure**
 >
-> [![My Discord Server](https://img.shields.io/discord/818960705255899178?color=gold&label=Joshua%27s%20Palace&logo=discord&logoColor=gold&style=for-the-badge)](https://discord.gg/qafdmryEye)
 
 ## My Github Stats 
 <a href="https://github.com/therealgwjosh">
