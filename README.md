@@ -1,7 +1,7 @@
 <a href="https://discord.com/users/362628885361197056"><img align="left" src="https://lanyard-profile-readme-nyria.vercel.app/api/362628885361197056?bg=23283d&borderRadius=8px&hideDiscrim=false"/></a>
 
 <a href="https://github.com/therealgwjosh">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealgwjosh&layout=compact&theme=dark" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealgwjosh&layout=compact&theme=dark" />
 </a>
 
 [![My Discord Server](https://img.shields.io/discord/818960705255899178?color=gold&label=Joshua%27s%20Palace&logo=discord&logoColor=gold&style=for-the-badge)](https://discord.gg/qafdmryEye)
