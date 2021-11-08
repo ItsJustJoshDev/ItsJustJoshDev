@@ -10,25 +10,10 @@
 <code><img height="15" src="https://raw.githubusercontent.com/TheRealGWJosh/TheRealGWJosh/main/Vizality.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/TheRealGWJosh/TheRealGWJosh/main/Powercord.svg"></code>
 
-# My Socials & Stats
->
-> ***Here is My Spotify*** **[Joshua Malava](https://open.spotify.com/user/jonnpetemalava)**
->
-> ***Here is My Steam ID and Link*** **[479499403](https://steamcommunity.com/id/TRGWJosh/)**
->
-> ***My PSN*** **TheRealGWJosh**
->
-> ***My Xbox*** **RealGWJosh**
->
-### My Discord Servers :D 
-> **My Discord Servers Are WIP and If You Join expect to be a bunch of**
->
-> **pings This Will be because of the many bots i will have to configure**
->
 
 ## My Github Stats 
 <a href="https://github.com/therealgwjosh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=therealgwjosh&show_icons=true&theme=dark" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=therealgwjosh&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/therealgwjosh">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealgwjosh&layout=compact&theme=dark" />
