@@ -1,4 +1,4 @@
-<a href="https://discord.com/users/362628885361197056"><img align="left" src="https://lanyard-profile-readme-nyria.vercel.app/api/362628885361197056?bg=23283d&borderRadius=8px&hideDiscrim=false"/></a>
+<a href="https://discord.com/users/938557606820204625"><img align="left" src="https://lanyard-profile-readme-nyria.vercel.app/api/938557606820204625?bg=23283d&borderRadius=8px&hideDiscrim=false"/></a>
 
 <a href="https://discord.gg/qafdmryEye">
   <img align="left" src="https://discordapp.com/api/guilds/818960705255899178/widget.png?style=banner4" />
