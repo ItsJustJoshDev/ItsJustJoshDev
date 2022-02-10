@@ -4,8 +4,8 @@
   <img align="left" src="https://discordapp.com/api/guilds/818960705255899178/widget.png?style=banner4" />
 </a>
 
-<a href="https://github.com/therealgwjosh">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealgwjosh&layout=compact&theme=dark" />
+<a href="https://github.com/ItsJustJoshDev">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsjustjoshdev&layout=compact&theme=dark" />
 </a>
 
 
