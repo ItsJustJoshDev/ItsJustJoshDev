@@ -14,6 +14,6 @@ That Makes Horrible Content and Discord Themes i Enjoy Anime and Music.
 
 # Banner
 
-<img align="center" width="100%" height="221" src="https://itsjustjoshdev.github.io/src/assets/user/banner.gif"/>
+<img align="center" width="100%" height="321" src="https://itsjustjoshdev.github.io/src/assets/user/banner.gif"/>
 
 <!-- This Readme Uses a Mix of Markdown and Html -->
