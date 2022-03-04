@@ -10,7 +10,7 @@ Colons can be used to align columns.
 
 | Main        | Alt           |
 | ------------- |:-------------:|
-| [!img1](https://lanyard.cnrad.dev/api/938557606820204625?idleMessage=Probably%20doing%20something%20else...)      | [!img2](https://lanyard.cnrad.dev/api/750781478991954031?hideDiscrim=true&idleMessage=Using%20My%20Main%20Account...) |
+| ![img1](https://lanyard.cnrad.dev/api/938557606820204625?idleMessage=Probably%20doing%20something%20else...)      | ![img2](https://lanyard.cnrad.dev/api/750781478991954031?hideDiscrim=true&idleMessage=Using%20My%20Main%20Account...) |
 
 <!-- align="right" align="left" align="center" -->
 
