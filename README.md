@@ -1,18 +1,4 @@
-<a class="status-container" >
-
-<style>
-
-.status-container {
-
-     display: grid;
-     place-items:  center;
-     color: green;
-     font-size: 25px;
-     height: 500px;
-
-}
-
-</style>
+<a class="status-container" style="display: grid;" >
 
 <img src="https://lanyard.cnrad.dev/api/938557606820204625?idleMessage=Probably%20doing%20something%20else..." href="https://discord.com/users/938557606820204625" />
 
