@@ -1,7 +1,21 @@
-<a align="grid" >
+<a class="status-container" >
 <img src="https://lanyard.cnrad.dev/api/938557606820204625?idleMessage=Probably%20doing%20something%20else..." href="https://discord.com/users/938557606820204625" />
 <img src="https://lanyard.cnrad.dev/api/750781478991954031?hideDiscrim=true&idleMessage=Using%20My%20Main%20Account..." />
 </a>
+
+<style>
+
+.status-container {
+
+     display: grid;
+     place-items:  center;
+     color: green;
+     font-size: 25px;
+     height: 500px;
+
+}
+
+</style>
 
 <!-- align="right" align="left" align="center" -->
 
