@@ -9,4 +9,8 @@
 Hello My Name is Josh and I'm a 17yr Old Web Developer and UI Designer,
 That Makes Horrible Content and Discord Themes i Enjoy Anime and Music.
 
-<img align="center" src="https://itsjustjoshdev.github.io/src/assets/user/banner.gif"/>
+
+
+# Banner
+
+<img align="center" width="100%" src="https://itsjustjoshdev.github.io/src/assets/user/banner.gif"/>
