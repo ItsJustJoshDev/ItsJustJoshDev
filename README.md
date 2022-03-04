@@ -13,7 +13,7 @@ That Makes Horrible Content and Discord Themes i Enjoy Anime and Music.
 
 ### Banner
 
-#
+###
 
 ---
 
