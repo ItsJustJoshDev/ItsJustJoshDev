@@ -4,6 +4,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsjustjoshdev&layout=compact&theme=dark" />
 
+
 ### About Me
 
 Hello My Name is Josh and I'm a 17yr Old Web Developer and UI Designer,
@@ -13,4 +14,6 @@ That Makes Horrible Content and Discord Themes i Enjoy Anime and Music.
 
 # Banner
 
-<img align="center" width="100%" src="https://itsjustjoshdev.github.io/src/assets/user/banner.gif"/>
+<img align="center" width="100%" height="121" src="https://itsjustjoshdev.github.io/src/assets/user/banner.gif"/>
+
+<!-- This Readme Uses a Mix of Markdown and Html -->
