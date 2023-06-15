@@ -7,7 +7,7 @@
 
 ### About Me
 
-Hello My Name is Josh and I'm a 17yr Old Web Developer and UI Designer,
+Hello My Name is Josh and I'm a 19yr Old Web Developer and UI Designer,
 That Makes Horrible Content and Discord Themes i Enjoy Anime and Music.
 
 <!-- This Readme Uses a Mix of Markdown and Html -->
